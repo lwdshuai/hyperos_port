@@ -9,7 +9,7 @@
 # Test Port ROM: Mi13、Mi13Pro、Mi13Ultra
 
 # 底包和移植包为外部参数传入
-BASEROM="$1"
+BASEROM="D:\下载\miui_SHENNONG_OS1.0.21.0.UNBCNXM_c72d682b7d_14.0"
 PORTROM="$2"
 
 export PATH=$(pwd)/bin/$(uname)/$(uname -m)/:$PATH
